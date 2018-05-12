@@ -1,0 +1,32 @@
+_repo: Social-Rights-and-Duties-Volume-I--of-2-Addresses-to-Ethical-Societies_28901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: ''
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Social ethics'
+- !lcsh 'Ethics, Evolutionary'
+tableOfContents: The aims of Ethical Societies -- Science and politics -- The sphere
+  of political economy -- The morality of competition -- Social equality -- Ethics
+  and the struggle for existence.
+title: 'Social Rights And Duties: Addresses to Ethical Societies. Vol 1 [of 2]'
+url: http://www.gutenberg.org/ebooks/28901
